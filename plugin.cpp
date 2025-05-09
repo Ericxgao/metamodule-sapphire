@@ -12,9 +12,13 @@ void init(Plugin *p) {
   p->addModel(modelSapphireGlee);
   p->addModel(modelSapphireGravy);
   p->addModel(modelSapphireHiss);
+  p->addModel(modelSapphireEnv);
+  p->addModel(modelSapphireLark);
+  p->addModel(modelSapphireNucleus);
+  p->addModel(modelSapphirePop);
+  p->addModel(modelSapphireTubeUnit);
   // p->addModel(modelSapphireChaops);
   // p->addModel(modelSapphireMoots);
-  // p->addModel(modelSapphireNucleus);
   // p->addModel(modelSapphirePivot);
   // p->addModel(modelSapphirePolynucleus);
   // p->addModel(modelSapphirePop);
