@@ -73,5 +73,5 @@ create_plugin(
     PLUGIN_NAME     CosineKitty-Sapphire                # This must match the brand "slug" used in VCV Rack
     PLUGIN_JSON     ${SOURCE_DIR}/plugin.json
     SOURCE_ASSETS   ${CMAKE_CURRENT_LIST_DIR}/assets    # Path to the assets/ dir containing the PNGs
-    DESTINATION     ${INSTALL_DIR}                      # Path to where you want the plugin dir output: it can be shared between multiple plugins
+    DESTINATION     ${CMAKE_CURRENT_LIST_DIR}/metamodule-plugins                      # Path to where you want the plugin dir output: it can be shared between multiple plugins
 )

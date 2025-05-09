@@ -6,29 +6,49 @@
 	"MetaModulePluginMaintainerUrl": "https://metamodule.info",
 	"MetaModuleDescription": "Sapphire modules ported from VCV",
 	"MetaModuleIncludedModules": [
-	{
-		"slug": "Elastika",
-		"name": "Elastika"
-	},
-	{
-		"slug": "Frolic",
-		"name": "Frolic"
-	},
-	{
-		"slug": "Galaxy",
-		"name": "Galaxy"
-	},
-	{
-		"slug": "Glee",
-		"name": "Glee"
-	},
-	{
-		"slug": "Gravy",
-		"name": "Gravy"
-	},
-	{
-		"slug": "Hiss",
-		"name": "Hiss"
-	}
+		{
+			"slug": "Elastika",
+			"name": "Elastika"
+		},
+		{
+			"slug": "Frolic",
+			"name": "Frolic"
+		},
+		{
+			"slug": "Galaxy",
+			"name": "Galaxy"
+		},
+		{
+			"slug": "Glee",
+			"name": "Glee"
+		},
+		{
+			"slug": "Gravy",
+			"name": "Gravy"
+		},
+		{
+			"slug": "Hiss",
+			"name": "Hiss"
+		},
+		{
+			"slug": "Env",
+			"name": "Env"
+		},
+		{
+			"slug": "Lark",
+			"name": "Lark"
+		},
+		{
+			"slug": "Nucleus",
+			"name": "Nucleus"
+		},
+		{
+			"slug": "Pop",
+			"name": "Pop"
+		},
+		{
+			"slug": "TubeUnit",
+			"name": "TubeUnit"
+		}
 	]
 }
